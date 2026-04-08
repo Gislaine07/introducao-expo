@@ -5,7 +5,7 @@ const styles = StyleSheet.create(
     {
         container: { 
             flex: 1,
-            backgroundColor: '#fafafa', 
+            backgroundColor: '#e9e0e0ec', 
             alignItems: 'center',             
         }, 
         titulo: {
@@ -37,7 +37,7 @@ const styles = StyleSheet.create(
         }, 
         txtBotao: {
             fontSize: RFPercentage(2), 
-            color: '#fafafa',
+            color: '#e9e6e6',
         },
     }
 );  
