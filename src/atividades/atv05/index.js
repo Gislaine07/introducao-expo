@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { View, Text, Pressable, TextInput } from 'react-native';
 
 import styles from './styles';
-
+// atividade
 export default function Atividade05() {
 
     const [isFocusN1, setIsFocusN1] = useState(false);
