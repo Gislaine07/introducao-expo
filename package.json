@@ -9,13 +9,33 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
     "expo": "~54.0.33",
     "expo-status-bar": "~3.0.9",
+    "express": "^5.2.1",
+    "knex": "^3.2.9",
+    "mysql2": "^3.22.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-native": "0.81.5",
     "react-native-responsive-fontsize": "^0.5.1",
     "react-native-web": "^0.21.0"
   },
-  "private": true
+  "private": true,
+  "description": "Aula react native com expo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gislaine07/introducao-expo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gislaine07/introducao-expo/issues"
+  },
+  "homepage": "https://github.com/Gislaine07/introducao-expo#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
