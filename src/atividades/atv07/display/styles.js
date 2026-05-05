@@ -9,13 +9,13 @@ const styles = StyleSheet.create({
         flex: 1,
         padding: RFValue(18),
         justifyContent: 'center',
-        backgroundColor: 'rgba(0, 0, 0, 0.6)',
+        backgroundColor: 'rgba(16, 240, 35, 0.9)',
         alignItems: 'flex-end',
         width: '100%',
     },
     displayValue: {
         fontSize: altura >= 144 ? RFPercentage(5) : RFPercentage(8),
-        color: '#fff',
+        color: '#daf10e',
     },
 });
 
